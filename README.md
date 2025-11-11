@@ -27,13 +27,11 @@ Multiply this across dozens of AI-accelerated projects and you end up abandoning
 ### 1. Install NOW in Your Project
 
 ```bash
-# Clone or download this repo
-git clone https://github.com/yourusername/now.git
+# Clone this repo
+git clone https://github.com/VirtualAdam/now.git
 
-# Copy the .prompt folder to your project
-cp -r now/.prompt /path/to/your/project/
-
-# That's it. The .prompt folder now lives in your project.
+# Copy .prompt folder into your project root
+cp -r now/.prompt /path/to/your-project/
 ```
 
 ### 2. Create Your First NOW
